@@ -8,7 +8,7 @@ WORKDIR /app
 COPY fetch_prices.py .
 
 # 4. Устанавливаем зависимости
-RUN pip install requests
+RUN pip install requests psycopg2-binary
 
 # 5. Команда по умолчанию: запустить скрипт
 CMD ["python", "fetch_prices.py"]
