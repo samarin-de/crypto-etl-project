@@ -20,17 +20,17 @@ CoinGecko API (REST)<br>
          │<br>
          ▼<br>
 ┌───────────────────┐<br>
-│ fetch_prices.py   │<br>
+│ fetch_prices.py      │<br>
 └───────────────────┘<br>
          │<br>
          ▼<br>
 ┌───────────────────┐<br>
-│ PostgreSQL        │<br>
+│ PostgreSQL           │<br>
 └───────────────────┘<br>
          │<br>
          ▼<br>
 ┌───────────────────┐<br>
-│ Airflow DAG       │<br>
+│ Airflow DAG          │<br>
 └───────────────────┘<br>
 
 
