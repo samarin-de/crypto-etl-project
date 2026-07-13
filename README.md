@@ -88,6 +88,3 @@ return_value: [2026-07-11 12:42:02] BTC: 64088 USD, ETH: 1797.35 USD
 GitHub: samarin-de
 Проект: https://github.com/samarin-de/crypto-etl-project
 
-## Лицензия
-
-Этот проект создан в учебных целях.
